@@ -15,7 +15,7 @@ function getCurrentTimeRangeIndex() {
   if (18 <= currentHour && currentHour < 21) return 6;
   if (21 <= currentHour && currentHour <= 23) return 7;
   return -1; // 시간대 오류 시
-}
+} 
 
 // DOMContentLoaded 이벤트 처리
 document.addEventListener("DOMContentLoaded", function () {

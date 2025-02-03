@@ -45,7 +45,7 @@ def index():
         print(f"Error loading main regions: {e}")
         regions = []  # 오류 발생 시 빈 리스트 반환
     finally:
-        if cursor:
+        if cursor: 
             cursor.close()
         if db:  # db가 정의된 경우에만 close() 호출
             db.close()
