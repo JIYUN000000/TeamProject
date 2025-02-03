@@ -1,4 +1,4 @@
-# 🚀 100 Mini Projects Challenge
+# 100 Mini Projects Challenge
 매일 하나씩 파이썬 미니 프로젝트를 만들며 성장하는 개발 기록입니다.
 
 ## 📜 진행 상황
