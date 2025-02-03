@@ -2,7 +2,7 @@
 매일 하나씩 파이썬 미니 프로젝트를 만들며 성장하는 개발 기록입니다.
 
 ## 📜 진행 상황
-✅ 4/100 완료
+✅ 5/100 완료
 📅 목표: 2025년 5월까지 100개 완성  
 
 ## 📂 프로젝트 목록
@@ -20,10 +20,15 @@
 - **사용 기술:** Python, Conditional Statements (`if-else`), User Input Handling
 
 ## 4️⃣ 🎢 Rollercoaster Ride Checker
-- **설명:** 키와 나이를 입력하면 롤러코스터를 탈 수 있는지 확인하고, 나이에 따라 티켓 가격을 계산하는 프로그램  
-  - 45~55세는 무료 탑승 혜택 제공!  
+- **설명:** 키와 나이를 입력하면 롤러코스터를 탈 수 있는지 확인하고, 나이에 따라 티켓 가격을 계산하는 프로그램 
   - 사진 촬영을 원하면 추가 요금 $3 부과  
-- **사용 기술:** Python, Conditional Statements (`if-elif-else`), User Input Handling  
+- **사용 기술:** Python, Conditional Statements (`if-elif-else`), User Input Handling
+
+## 5️⃣ ✌️ Rock Paper Scissors Game
+- **설명:** 사용자가 `가위(2)`, `바위(0)`, `보(1)` 중 하나를 선택하면, 컴퓨터도 랜덤으로 선택하여 승패를 결정하는 게임
+  - ASCII 아트를 활용해 가위바위보 그림을 출력합니다.  
+  - 컴퓨터와 동일한 선택을 하면 무승부, 이기면 "You win!", 지면 "You lose!" 메시지 출력
+- **사용 기술:** Python, `random` 모듈, List Indexing, Conditional Statements  
 
 ## 📧 Contact
 - GitHub: [@JIYUN000000](https://github.com/username)
