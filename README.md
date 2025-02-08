@@ -28,7 +28,24 @@
 - **설명:** 사용자가 `가위(2)`, `바위(0)`, `보(1)` 중 하나를 선택하면, 컴퓨터도 랜덤으로 선택하여 승패를 결정하는 게임
   - ASCII 아트를 활용해 가위바위보 그림을 출력합니다.  
   - 컴퓨터와 동일한 선택을 하면 무승부, 이기면 "You win!", 지면 "You lose!" 메시지 출력
-- **사용 기술:** Python, `random` 모듈, List Indexing, Conditional Statements  
+- **사용 기술:** Python, `random` 모듈, List Indexing, Conditional Statements
+
+## 6️⃣ 🧭 Maze Solver (Reeborg's World)
+
+- **설명:**  
+  이 프로젝트는 [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)에서 제공하는 미로 문제를 해결하는 코드입니다.  
+  간단한 조건문과 반복문을 사용해 로봇이 미로를 탈출할 수 있도록 동작을 구현했습니다.  
+  - 오른쪽이 열려있으면 오른쪽으로 회전 후 이동  
+  - 앞쪽이 열려있으면 이동  
+  - 둘 다 막혀있으면 왼쪽으로 회전  
+  방식으로 진행됩니다.
+
+- **사용 기술:**  
+  Python, 조건문(`if-elif-else`), 반복문(`while`)
+
+- **실행 방법:**  
+  1. 위의 [Reeborg's World 링크](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)로 이동  
+  2. 에디터에 코드를 복사하여 붙여넣고 실행하면 미로를 탈출하는 로봇의 움직임을 확인할 수 있습니다.
 
 ## 📧 Contact
 - GitHub: [@JIYUN000000](https://github.com/username)
