@@ -30,7 +30,16 @@
   - 컴퓨터와 동일한 선택을 하면 무승부, 이기면 "You win!", 지면 "You lose!" 메시지 출력
 - **사용 기술:** Python, `random` 모듈, List Indexing, Conditional Statements
 
-## 6️⃣ 🧭 Maze Solver (Reeborg's World)
+## 6️⃣ 🔐 PyPassword Generator
+- **설명:**  
+  이 프로젝트는 Python을 활용한 간단한 비밀번호 생성기입니다.  
+  사용자로부터 포함할 **문자(letters)**, **숫자(numbers)**, **특수문자(symbols)**의 개수를 입력받아,  
+  각 목록에서 랜덤하게 선택한 후 섞어 최종 비밀번호를 생성합니다.
+
+- **사용 기술:**  
+  Python, `random` 모듈, 리스트 조작, 사용자 입력 처리
+
+## 7️⃣ 🧭 Maze Solver (Reeborg's World)
 
 - **설명:**  
   이 프로젝트는 [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)에서 제공하는 미로 문제를 해결하는 코드입니다.  
