@@ -55,6 +55,24 @@
 - **실행 방법:**  
   1. 위의 [Reeborg's World 링크](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)로 이동  
   2. 에디터에 코드를 복사하여 붙여넣고 실행하면 미로를 탈출하는 로봇의 움직임을 확인할 수 있습니다.
+ 
+ ## 8️⃣ 🎮 Hangman Game
+
+- **설명:**  
+  이 프로젝트는 Python으로 구현한 **행맨 게임(Hangman Game)** 입니다.  
+  사용자는 숨겨진 단어를 한 글자씩 추측하여 맞춰야 하며, 틀릴 경우 목숨(lives)이 줄어듭니다.  
+  - 모든 목숨이 소진되면 게임 오버!  
+  - 단어를 모두 맞히면 승리합니다.  
+  - 단어 목록은 `hangman_words.py` 파일에서, 게임 로고와 행맨 그림은 `hangman_art.py` 파일에서 가져옵니다.
+
+- **사용 기술:**  
+  Python, 조건문, 반복문, 리스트, 사용자 입력, 모듈 임포트, ASCII Art
+
+  - **모듈 구조:**  
+  - **hangman_words.py**: 단어 목록(`word_list`)을 제공  
+  - **hangman_art.py**: 게임 로고(`logo`)와 각 목숨 단계에 따른 행맨 그림(`stages`)을 제공
+
+
 
 ## 📧 Contact
 - GitHub: [@JIYUN000000](https://github.com/username)
