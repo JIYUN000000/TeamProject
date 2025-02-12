@@ -72,7 +72,18 @@
   - **hangman_words.py**: 단어 목록(`word_list`)을 제공  
   - **hangman_art.py**: 게임 로고(`logo`)와 각 목숨 단계에 따른 행맨 그림(`stages`)을 제공
 
+## 9️⃣ 🔄 Caesar Cipher
+- **설명:**  
+  이 프로젝트는 Python으로 구현한 **Caesar Cipher** 프로그램입니다.  
+  사용자가 입력한 메시지를 지정한 만큼의 문자 위치를 이동시켜 암호화(encode) 또는 복호화(decode)할 수 있습니다.  
+  프로그램 시작 시, `art.py` 파일에 정의된 로고(ASCII 아트)를 출력하여 멋진 시작 화면을 보여줍니다.
+  
+- **특징:**  
+  - 알파벳 이외의 문자(숫자, 기호, 공백)는 그대로 유지됩니다.
+  - 프로그램 종료 후, 재시작할 수 있도록 반복 실행 기능을 제공합니다.
 
+- **사용 기술:**  
+  Python, 문자열 조작, 리스트, 조건문, 반복문, 모듈 임포트
 
 ## 📧 Contact
 - GitHub: [@JIYUN000000](https://github.com/username)
